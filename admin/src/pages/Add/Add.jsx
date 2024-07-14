@@ -68,12 +68,12 @@ const onSubmitHandler = async (event) =>{
          <div className="add-category flex-col">
           <p>categoria do produto</p>
           <select onChange={onChangeHandler} name="category" >
-            <option value="Salada">salada</option>
+            <option value="Salada">Salada</option>
             <option value="Rolos">Rolos</option>
             <option value="Desertas">Desertas</option>
             <option value="Sanduíche">Sanduíche</option>
-            <option value="Bolo">bolo</option>
-            <option value="Vegetais puros">pure</option>
+            <option value="Bolo">Bolo</option>
+            <option value="Vegetais puros">Vegetais puros</option>
             <option value="Torta">Torta</option>
             <option value="Macarrão">Macarrão</option>
             <option value="Refrigerante">Refrigerante</option>

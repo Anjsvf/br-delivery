@@ -38,7 +38,7 @@ const LIst = ({url}) => {
               <b>nome</b>
               <b>categoria</b>
               <b>preço</b>
-              <b>ação</b>
+              <b>excluir</b>
             </div>
             {list.map((item,index) =>{
                   return(
