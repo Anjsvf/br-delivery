@@ -111,31 +111,31 @@ export const menu_list = [
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Rolos",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Desertas",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Sanduíche",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Bolo",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Vegetais puros",
         menu_image: menu_6
     },
     {
-        menu_name: "Macarrão",
+        menu_name: "Torta",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Macarrão",
         menu_image: menu_8
     },
     {
@@ -143,7 +143,7 @@ export const menu_list = [
         menu_image: menu_9
     },
     {
-        menu_name: "Bebida Alcolica",
+        menu_name: "Bebida alcoólica",
         menu_image: menu_10
     }
 
