@@ -57,7 +57,7 @@ if (response.data.success) {
             <p>pedidos: {order.items.length}</p>
             <p>R${order.amount}</p>
             <select onChange={(event)=>statusHandler(event,order._id)} value={order.status}>
-              <option value="em processameto">em processamento</option>
+              <option value="em processamento">em processamento</option>
               <option value="saindo para entrga">saindo pra entrega</option>
               <option value="entregue">entregue</option>
             </select>

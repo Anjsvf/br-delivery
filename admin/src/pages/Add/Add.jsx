@@ -69,15 +69,15 @@ const onSubmitHandler = async (event) =>{
           <p>categoria do produto</p>
           <select onChange={onChangeHandler} name="category" >
             <option value="Salada">salada</option>
-            <option value="Rolls">Rolls</option>
-            <option value="Deserts">Deserts</option>
-            <option value="Sadwich">sadwich</option>
-            <option value="Cake">bolo</option>
-            <option value="Pure">pure</option>
-            <option value="Pasta">Pasta</option>
-            <option value="Noodles">Noodles</option>
+            <option value="Rolos">Rolos</option>
+            <option value="Desertas">Desertas</option>
+            <option value="Sanduíche">Sanduíche</option>
+            <option value="Bolo">bolo</option>
+            <option value="Vegetais puros">pure</option>
+            <option value="Torta">Torta</option>
+            <option value="Macarrão">Macarrão</option>
             <option value="Refrigerante">Refrigerante</option>
-            <option value="Bebida Alcolica">bebida alcolica</option>
+            <option value="Bebida alcoólica">Bebida alcoólica</option>
           </select>
          </div>
          <div className="add-price flex-col" >
