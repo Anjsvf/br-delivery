@@ -267,32 +267,32 @@ export const food_list = [
         category: "Sandwich"
     }, {
         _id: "17",
-        name: "Cup Cake",
+        name: "Cup Bolo",
         image: food_17,
         price: 14,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Bolo"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Vegan Bolo",
         image: food_18,
         price: 12,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Bolo"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Butterscotch Bolo",
         image: food_19,
         price: 20,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Bolo"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Sliced Bolo",
         image: food_20,
         price: 15,
         description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        category: "Bolo"
     }, {
         _id: "21",
         name: "Garlic Mushroom ",
