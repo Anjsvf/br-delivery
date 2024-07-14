@@ -5,7 +5,7 @@ import Stripe from "stripe";
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 const placeOrder = async (req, res) => {
-  const frontend_url = "https://br-delivery-frontend.onrender.com";
+  const frontend_url = "https://br-delivery-28yw-frontend.vercel.app/";
   try {
     const newOrder = new orderModel({
       userId: req.body.userId,
