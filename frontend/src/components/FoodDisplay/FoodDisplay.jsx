@@ -9,7 +9,7 @@ const FoodDisplay = ({ category }) => {
       <h2>pratos principais pertinho de você</h2>
       <div className="food-display-list">
         {food_list.map((item,index) => {
-          {console.log(category,item.category);}
+          // {console.log(category,item.category);}
           if (category==="All" || category===item.category) {
             return (
 
