@@ -1,38 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: outfit ;
+  font-family: outfit;
   scroll-behavior: smooth;
- -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-touch-callout: none; /* iOS Safari */
   -webkit-user-select: none; /* Safari */
   -khtml-user-select: none; /* Konqueror HTML */
   -moz-user-select: none; /* Versões antigas do Firefox */
   -ms-user-select: none; /* Internet Explorer/Edge */
   user-select: none; /* Versão padrão, suportada atualmente por Chrome, Opera e Firefox */
- 
 }
-body{
-  min-height: 100dvh ;
+body {
+  min-height: 100vh;
   background-color: whitesmoke;
- 
-  
 }
-a{
+a {
   text-decoration: none;
   color: inherit;
 }
-.app{
+.app {
   width: 80%;
   margin: auto;
 }
-@keyframes fadeIn{
-  0%{
+@keyframes fadeIn {
+  0% {
     opacity: 0;
   }
-  100%{
+  100% {
     opacity: 1;
   }
 }
