@@ -1,4 +1,4 @@
-# Título do Projeto
+# BR_delivery
 
 https://github.com/user-attachments/assets/eeacb8ff-b7fd-424c-b9d6-fac0c60bb073
 # Food Delivery App - Frontend
@@ -52,7 +52,7 @@ Include screenshots of the application interface to give users a visual preview.
 
 ## Deployment
 
-- **Deployment**: Deployed on **Netlify**.
+- **Deployment**: Deployed on **Render**.
 
 ## Contributing
 
