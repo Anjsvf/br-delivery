@@ -1,5 +1,19 @@
 # BR_delivery
+BR Delivery is a full-stack web application designed for managing food orders and deliveries. Built with React.js for the frontend and Node.js with Express for the backend, it utilizes MongoDB for data storage and integrates with Stripe for secure payment processing. The platform allows users to register and log in securely, browse a variety of food items categorized by type, add selected items to a shopping cart, and place orders. Admin functionalities include managing food items, processing orders, and updating order statuses. The responsive design ensures a seamless user experience across desktop and mobile devices.
 
+Key Features
+User Authentication: Secure registration and login using JWT tokens.
+Food Management: Admin can add, list, and remove food items with images and descriptions.
+Order Processing: Users can view order history, track order status, and receive notifications.
+Stripe Integration: Secure payment handling for seamless transactions.
+Responsive Design: Optimized for use on desktop and mobile devices.
+Technologies Used
+Frontend: React.js, React Router, Axios
+Backend: Node.js, Express.js, MongoDB (Mongoose)
+Payment: Stripe API
+Authentication: JWT (JSON Web Tokens)
+Styling: Custom CSS
+Installation and Setup
 https://github.com/user-attachments/assets/eeacb8ff-b7fd-424c-b9d6-fac0c60bb073
 # Food Delivery App - Frontend
 
@@ -130,6 +144,32 @@ Document the available API endpoints and their functionality:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+# Admin Panel for Food Delivery Application
+
+This project implements a frontend admin panel for a food delivery application built with React. It allows administrators to manage food items and orders.
+
+## Features
+
+- **Add Items**: Administrators can add new food items with images, descriptions, prices, and categories.
+- **List Items**: View a list of all food items currently available.
+- **Manage Orders**: Monitor and update the status of customer orders.
+
+## Technologies Used
+
+- **React**: Frontend JavaScript library for building user interfaces.
+- **React Router**: Navigation for single-page applications.
+- **Axios**: Promise-based HTTP client for making API requests.
+- **Context API**: State management for global application data.
+- **Toast Notifications**: Provides user feedback for operations like adding items or updating order status.
+
+## Setup Instructions
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   cd frontend-admin-panel
+npm install
+npm start
 
 
 
