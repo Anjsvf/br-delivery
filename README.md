@@ -35,12 +35,12 @@ This repository contains the frontend codebase for a food delivery application b
 - **React**: Frontend framework for building user interfaces.
 - **React Router**: For handling navigation within the application.
 - **Axios**: HTTP client for making requests to the backend API.
-- **Bootstrap**: CSS framework for responsive design.
+- **Css**: CSS pure.
 - **Stripe.js**: Stripe's JavaScript library for payment integration.
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+1. **Clone the repository:*https://github.com/Anjsvf/br-delivery*
 2. 
 2. **Install dependencies:**
 
@@ -169,7 +169,7 @@ This project implements a frontend admin panel for a food delivery application b
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo-url.git
+https://github.com/Anjsvf/br-delivery
    cd frontend-admin-panel
 npm install
 npm start
