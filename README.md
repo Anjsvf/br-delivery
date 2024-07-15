@@ -1,4 +1,8 @@
 # BR_delivery
+
+https://github.com/user-attachments/assets/eeacb8ff-b7fd-424c-b9d6-fac0c60bb073
+
+
 BR Delivery is a full-stack web application designed for managing food orders and deliveries. Built with React.js for the frontend and Node.js with Express for the backend, it utilizes MongoDB for data storage and integrates with Stripe for secure payment processing. The platform allows users to register and log in securely, browse a variety of food items categorized by type, add selected items to a shopping cart, and place orders. Admin functionalities include managing food items, processing orders, and updating order statuses. The responsive design ensures a seamless user experience across desktop and mobile devices.
 
 Key Features
@@ -14,7 +18,6 @@ Payment: Stripe API
 Authentication: JWT (JSON Web Tokens)
 Styling: Custom CSS
 Installation and Setup
-https://github.com/user-attachments/assets/eeacb8ff-b7fd-424c-b9d6-fac0c60bb073
 # Food Delivery App - Frontend
 
 This repository contains the frontend codebase for a food delivery application built using React. It allows users to browse a menu, add items to their cart, place orders, and track delivery.
