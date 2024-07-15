@@ -32,7 +32,7 @@ This repository contains the frontend codebase for a food delivery application b
 
 ## Technologies Used
 
-- **React**: Frontend framework for building user interfaces.
+- **React and vite**: Frontend framework for building user interfaces.
 - **React Router**: For handling navigation within the application.
 - **Axios**: HTTP client for making requests to the backend API.
 - **Css**: CSS pure.
@@ -63,9 +63,7 @@ This repository contains the frontend codebase for a food delivery application b
 - **`src/services/`**: Functions for making API requests using Axios.
 - **`src/utils/`**: Utility functions and constants.
 
-## Screenshots
 
-Include screenshots of the application interface to give users a visual preview.
 
 ## Deployment
 
@@ -102,9 +100,9 @@ This repository contains the backend codebase for a food delivery application bu
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+1. **Clone the repository:*https://github.com/Anjsvf/br-delivery*
 
-2. **Install dependencies:**
+2. **Install dependencies:*npm instal nodemoon*
 
 3. **Set up environment variables:**
 - Create a `.env` file in the root directory.
@@ -159,7 +157,7 @@ This project implements a frontend admin panel for a food delivery application b
 
 ## Technologies Used
 
-- **React**: Frontend JavaScript library for building user interfaces.
+- **React and vite**: Frontend JavaScript library for building user interfaces.
 - **React Router**: Navigation for single-page applications.
 - **Axios**: Promise-based HTTP client for making API requests.
 - **Context API**: State management for global application data.
@@ -172,7 +170,7 @@ This project implements a frontend admin panel for a food delivery application b
 https://github.com/Anjsvf/br-delivery
    cd frontend-admin-panel
 npm install
-npm start
+npm run dev
 
 
 
